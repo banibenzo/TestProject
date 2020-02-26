@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\diahloul\Documents\Bugs stats\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
